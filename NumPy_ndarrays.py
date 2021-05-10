@@ -23,8 +23,6 @@ import numpy as np
 # column full of 1s, its second column full of 2s, its third
 # column full of 3s, etc.. 
 
-# Do not change the name of this array. 
-# Please don't print anything from your code! The TEST RUN button below will print your array. 
 X = np.zeros((4,4))
 x = np.arange(1,5)
 
