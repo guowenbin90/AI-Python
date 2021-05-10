@@ -16,3 +16,16 @@ np.save('my_array', x)
 
 # We load the saved array from our current directory into variable z
 z = np.load('my_array.npy')
+
+import numpy as np
+
+# Use Broadcasting to create a 4 x 4 ndarray that has its first
+# column full of 1s, its second column full of 2s, its third
+# column full of 3s, etc.. 
+
+# Do not change the name of this array. 
+# Please don't print anything from your code! The TEST RUN button below will print your array. 
+X = np.zeros((4,4))
+x = np.arange(1,5)
+
+print(X+x)
