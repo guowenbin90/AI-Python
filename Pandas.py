@@ -26,3 +26,9 @@ time_light = dist_planets/18
 # We'll check your work by printing out these close planets.
 close_planets = time_light[time_light<40]
 
+dict_planets = {'aaa': dist_planets}
+dict_planets2= pd.DataFrame(dict_planets)
+dict_planets2
+dict_planets2.index
+dict_planets2.columns
+dict_planets2.shape
