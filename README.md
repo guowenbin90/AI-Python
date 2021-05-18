@@ -1,20 +1,27 @@
+
 # AI-Python
-## Anaconda
-### Managing Environments
-conda create -n env_name
-conda activate my_env
-### Saving and loading environments
-conda env export > environment.yaml
-### Create an environment
-conda env create -f environment.yaml
-### Listing environments
-conda env list
-## Jupyter Notebooks
-### Math expressions
-You can create math expressions in Markdown cells using LaTeX symbols. Notebooks use MathJax to render the LaTeX symbols as math symbols. To start math mode, wrap the LaTeX in dollar signs `$y = mx + b$` for inline math. For a math block, use double dollar signs,
-```
-$$
-y = \frac{a}{b+c}
-$$
-```
-This is a really useful feature, so if you don't have experience with LaTeX, [here is a tutorial](https://latex-tutorial.com/) on using it to create math expressions.
+## Anaconda.md
+Managing Environments
+## Numpy.py
+- How to import NumPy
+- How to create multidimensional NumPy ndarrays using various methods
+- How to access and change elements in ndarrays
+- How to load and save ndarrays
+- How to use slicing to select or change subsets of an ndarray
+- Understand the difference between a view and a copy an of ndarray
+- How to use Boolean indexing and set operations to select or change subsets of an ndarray
+- How to sort ndarrays
+- How to perform element-wise operations on ndarrays
+- Understand how NumPy uses broadcasting to perform operations on ndarrays of different sizes.
+## NumpyProject.py
+Mean Normalization
+## Pandas.py
+- How to import Pandas
+- How to create Pandas Series and DataFrames using various methods
+- How to access and change elements in Series and DataFrames
+- How to perform arithmetic operations on Series
+- How to load data into a DataFrame
+- How to deal with Not a Number (NaN) values
+## PandasProject.py
+Statistics from Stock Data
+
