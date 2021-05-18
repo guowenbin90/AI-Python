@@ -13,7 +13,8 @@ Managing Environments
 - How to sort ndarrays
 - How to perform element-wise operations on ndarrays
 - Understand how NumPy uses broadcasting to perform operations on ndarrays of different sizes.
-## NumpyProject.py
+## NumpyProject.ipynb
+NumpyProject.md  
 Mean Normalization
 ## Pandas.py
 - How to import Pandas
@@ -22,6 +23,7 @@ Mean Normalization
 - How to perform arithmetic operations on Series
 - How to load data into a DataFrame
 - How to deal with Not a Number (NaN) values
-## PandasProject.py
+## PandasProject.ipynb
+PandasProject.md  
 Statistics from Stock Data
 
