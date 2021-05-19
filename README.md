@@ -2,6 +2,11 @@
 # AI-Python
 ## Anaconda.md
 Managing Environments
+## DataType&Operators.py
+- Data Types: Integers, Floats, Booleans, Strings
+- Operators: Arithmetic, Assignment, Comparison, Logical
+- Built-In Functions, Type Conversion
+- Whitespace and Style Guidelines
 ## Numpy.py
 - How to import NumPy
 - How to create multidimensional NumPy ndarrays using various methods
