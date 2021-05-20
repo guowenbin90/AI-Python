@@ -31,4 +31,5 @@ Mean Normalization
 ## PandasProject.ipynb
 PandasProject.md  
 Statistics from Stock Data
+## Matplotlib and Seaborn.md
 
