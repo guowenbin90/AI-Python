@@ -35,3 +35,4 @@ Statistics from Stock Data
 - Univariate visualizations: Visualize single-variables, such as bar charts, histograms, and line charts.
 - Bivariate visualizations: Plots representing the relationship between two variables measured on the given sample data. These plots help to identify the relationship pattern between the two variables.
 - Ordinal data: It is a categorical data type where the variables have natural and ordered categories. The distances between the categories are unknown, such as the survey options presented on a five-point scale.
+## NeuralNetwork.md
