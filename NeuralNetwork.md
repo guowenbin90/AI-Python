@@ -1,1 +1,16 @@
-Deep learning
+- Classification
+- Linear broundaries
+- Higher dimension
+- Perceptrons
+- Non-linear regions
+- Error functions
+- Log-loss Error funtion
+- Discrete vs Continuous
+- Softmax
+- One=hot encoding
+- Maximum likelihood
+- Cross-entropy
+- Logistic regression
+- Gradient descent
+- Feedforward
+- Backpropagation
