@@ -7,7 +7,7 @@
 - Log-loss Error funtion
 - Discrete vs Continuous
 - Softmax
-- One=hot encoding
+- One-hot encoding
 - Maximum likelihood
 - Cross-entropy
 - Logistic regression
