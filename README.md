@@ -42,3 +42,4 @@ Statistics from Stock Data
 - Violin_and_Box_Plot.ipynb
 ## NeuralNetwork.md
 ## DeepLearningWithPyTorch.md
+## Scikit-learn
