@@ -43,3 +43,8 @@ Statistics from Stock Data
 ## NeuralNetwork.md
 ## DeepLearningWithPyTorch.md
 ## Scikit-learn
+- Support Vector Machines (SVM)
+- Nearest Neighbors
+- Naive Bayes
+- Decision Trees
+- Neural Network
