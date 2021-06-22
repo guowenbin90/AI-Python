@@ -48,3 +48,4 @@ Statistics from Stock Data
 - Naive Bayes
 - Decision Trees
 - Neural Network
+## Seaborn
